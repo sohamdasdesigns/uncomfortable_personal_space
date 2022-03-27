@@ -58,7 +58,7 @@ function draw() {
 
 function changeLength() {
   c = 40;
-  select('canvas').elt.style.letterSpacing = "32px";
+  select('canvas').elt.style.letterSpacing = "30px";
 }
 function changeLengthBack() {
   c = 0;
